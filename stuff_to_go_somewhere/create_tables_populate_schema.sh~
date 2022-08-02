@@ -1,0 +1,5 @@
+sudo docker cp postgre
+sudo docker exec -it
+
+sudo docker cp
+sudo docker exec -it po2
